@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ObstaclesMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SpawnObstacles.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="24" Column="2" />
+      <File FileName="Assets\Scripts\DecorsMove.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\GameOver.cs" Line="13" Column="1" />
+      <File FileName="Assets\Scripts\LaunchGame.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\ObstaclesKiller.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\ObstaclesMove.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
