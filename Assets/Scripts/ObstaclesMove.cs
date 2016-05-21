@@ -7,8 +7,8 @@ public class ObstaclesMove : MonoBehaviour {
 	void Update () {
 		transform.Translate (new Vector3 (deplacementVitesse, 0, 0));
 
-		if (transform.position.x >= 253) {
-			transform.position = new Vector3 (0, 0, 0);
+		if(transform.position.x >= 7) {
+			Destroy (transform.gameObject);
 		}
 	}
 }
