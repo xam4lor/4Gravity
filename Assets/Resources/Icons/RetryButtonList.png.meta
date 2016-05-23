@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 6d7ce03eed58875488b19cc9dc5048ab
+timeCreated: 1464009187
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RetryButtonList_0
+    21300002: RetryButtonList_1
+    21300004: RetryButtonList_2
+    21300006: RetryButtonList_3
+    21300008: RetryButtonList_4
+    21300010: RetryButtonList_5
+    21300012: RetryButtonList_6
+    21300014: RetryButtonList_7
+    21300016: RetryButtonList_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RetryButtonList_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1960
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -195.5, y: 68.404755}
+        - {x: -195.5, y: -67.595245}
+        - {x: 195.5, y: -67.595245}
+        - {x: 195.5, y: 68.404755}
+    - name: RetryButtonList_1
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 958
+        width: 1952
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.59225, y: 67.529755}
+        - {x: -194.59225, y: -67.470245}
+        - {x: 195.40775, y: -67.470245}
+        - {x: 195.40775, y: 67.529755}
+    - name: RetryButtonList_2
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 958
+        width: 1952
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.7857, y: 67.029755}
+        - {x: -194.7857, y: -66.970245}
+        - {x: 195.2143, y: -66.970245}
+        - {x: 195.2143, y: 67.029755}
+    - name: RetryButtonList_3
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 960
+        width: 1950
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.80066, y: 67.42857}
+        - {x: -194.80066, y: -66.57143}
+        - {x: 195.19934, y: -66.57143}
+        - {x: 195.19934, y: 67.42857}
+    - name: RetryButtonList_4
+      rect:
+        serializedVersion: 2
+        x: 8105
+        y: 960
+        width: 1954
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.82446, y: 67.42857}
+        - {x: -194.82446, y: -66.57143}
+        - {x: 195.17554, y: -66.57143}
+        - {x: 195.17554, y: 67.42857}
+    - name: RetryButtonList_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 179
+        width: 1953
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.61012, y: 68.69345}
+        - {x: -194.61012, y: -67.30655}
+        - {x: 195.38988, y: -67.30655}
+        - {x: 195.38988, y: 68.69345}
+    - name: RetryButtonList_6
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 170
+        width: 1953
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.60715, y: 68.3988}
+        - {x: -194.60715, y: -66.6012}
+        - {x: 195.39285, y: -66.6012}
+        - {x: 195.39285, y: 68.3988}
+    - name: RetryButtonList_7
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 166
+        width: 1956
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -195.0982, y: 67.10119}
+        - {x: -195.0982, y: -66.89881}
+        - {x: 195.9018, y: -66.89881}
+        - {x: 195.9018, y: 67.10119}
+    - name: RetryButtonList_8
+      rect:
+        serializedVersion: 2
+        x: 6062
+        y: 173
+        width: 1955
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -194.70837, y: 68.497025}
+        - {x: -194.70837, y: -67.502975}
+        - {x: 196.29163, y: -67.502975}
+        - {x: 196.29163, y: 68.497025}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

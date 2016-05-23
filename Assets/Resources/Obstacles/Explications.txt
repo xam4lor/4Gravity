@@ -1,0 +1,65 @@
+
+************* OBSTACLES *******************
+
+
+	--------- PNEU ---------
+	
+	Les pneus arrivent par groupe
+	de 4 ou 5 avec des vitesses, 
+	des tailles et des positions
+	différentes.
+	
+	--------- POUTRE FER ---------
+	
+	La poutre en fer se décroche
+	assez loin du personnage de jeu,
+	rebondit et roule jusqu'au joueur
+	qui doit l'esquiver.
+	
+	--------- SCIE CIRCULAIRE ---------
+	
+	La scie circulaire sort, assez près
+	du joueur en fonction du score, d'un 
+	des 4 murs. Après que le joueur l'a
+	passé, la scie rentre dans le mur
+	avec une animation visible.
+	La scie circulaire tourne sur
+	elle-même.
+	
+	--------- BARRE ---------
+	
+	La barre métallique se fixe
+	sur un des 4 murs, et ne bouge
+	pas. Elle sert juste à bloquer
+	l'accès à un mur complet.
+	
+	--------- BARRIERE ---------
+	
+	La barrière est un obstacle
+	qui, lorsque le personnage est
+	à sa hauteur, se trouve au milieu
+	du chemin. Le joueur est donc obligé
+	de passer en dessous ou au dessus 
+	si elle est placée à l'horizontale. 
+	Et à gauche ou à droite si elle est
+	placée à la verticale. De plus, deux
+	barrières peuvent se retrouver
+	avec une à la verticale et une à l'
+	horizontale. La barrière arrive à l'
+	écran en coulissant d'un mur à l'autre
+	telle une porte coulissante qui 
+	s'ouvre.
+	
+	--------- CADRE METALLIQUE ---------
+	
+	Le cadre métallique avance en même
+	temps que le décor, il reste fixe et
+	couvre les 4 murs, cela veut dire que
+	le joueur ne peut pas passer cet
+	obstacle en restant sur un mur. Au
+	contraire, il doit faire en sorte de
+	rester en l'air pendant la durée du
+	passage de cet obstacle.
+	
+	
+******************************************

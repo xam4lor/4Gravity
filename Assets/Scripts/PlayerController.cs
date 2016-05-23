@@ -1,12 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour {
 	public int vitesse;
+	public int vitessePoints;
 
 	private bool action = false;
 	private Rigidbody rb;
 	private int currentPosition;
+	private long points;
 
 	void Start () {
 		rb = GetComponent<Rigidbody>();
@@ -44,6 +47,10 @@ public class PlayerController : MonoBehaviour {
 				action = false;
 			}
 		}
+
+		points++;
+
+		GameObject.Find ("points").GetComponent<Text> ().text = ("Score : " + (points / vitessePoints));
 	}
 
 	private void goToPosition(int positionNb) {

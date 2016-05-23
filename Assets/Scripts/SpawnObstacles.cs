@@ -19,7 +19,7 @@ public class SpawnObstacles : MonoBehaviour {
 	}
 
 	void CreateObstacle () {
-		int r = Random.Range (1, obsLength);
+		int r = Random.Range (1, (obsLength + 1));
 
 		switch(r) {
 		case 1:

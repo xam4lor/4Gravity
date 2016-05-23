@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 84ccc0061c8635741b5620bce8e10099
+timeCreated: 1463989418
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barriere_1E2m
+    100002: //RootNode
+    100004: "Barri\xE8re_type_Jourdain_5_Ext_6m"
+    100006: brut_Classe_8
+    100008: brut_Classe_8 1
+    100010: brut_Classe_8 2
+    100012: brut_Classe_8 3
+    100014: brut_Classe_8_1
+    100016: brut_Classe_8_1 1
+    100018: brut_Classe_8_1 2
+    100020: brut_Classe_8_1 3
+    100022: brut_Classe_8_1 4
+    100024: brut_Classe_8_1 5
+    100026: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    100028: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 1
+    100030: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 2
+    100032: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 3
+    100034: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 4
+    100036: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 5
+    100038: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 6
+    100040: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 7
+    100042: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 8
+    100044: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 9
+    100046: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+    100048: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      1
+    100050: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      2
+    100052: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      3
+    100054: galvanis__chaud_Classe_8.8
+    100056: galvanis__chaud_Classe_8.8 1
+    100058: galvanis__chaud_Classe_8.8 2
+    100060: galvanis__chaud_Classe_8.8 3
+    100062: group_0
+    100064: group_1
+    100066: group_10
+    100068: group_11
+    100070: group_2
+    100072: group_3
+    100074: group_4
+    100076: group_5
+    100078: group_6
+    100080: group_7
+    100082: group_8
+    100084: group_9
+    100086: ID107
+    100088: ID113
+    100090: ID119
+    100092: ID127
+    100094: ID133
+    100096: ID150
+    100098: ID189
+    100100: ID208
+    100102: ID234
+    100104: ID238
+    100106: ID269
+    100108: ID289
+    100110: ID297
+    100112: ID303
+    100114: ID309
+    100116: ID317
+    100118: ID321
+    100120: ID47
+    100122: ID64
+    100124: ID99
+    100126: instance_0
+    100128: instance_1
+    100130: instance_2
+    100132: instance_2 1
+    100134: instance_3
+    100136: instance_3 1
+    100138: instance_4
+    100140: instance_4 1
+    100142: instance_5
+    100144: instance_5 1
+    100146: instance_6
+    100148: instance_6 1
+    100150: instance_7
+    100152: instance_7 1
+    100154: instance_8
+    100156: instance_8 1
+    100158: skp_camera_Last_Saved_SketchUp_View
+    400000: barriere_1E2m
+    400002: //RootNode
+    400004: "Barri\xE8re_type_Jourdain_5_Ext_6m"
+    400006: brut_Classe_8
+    400008: brut_Classe_8 1
+    400010: brut_Classe_8 2
+    400012: brut_Classe_8 3
+    400014: brut_Classe_8_1
+    400016: brut_Classe_8_1 1
+    400018: brut_Classe_8_1 2
+    400020: brut_Classe_8_1 3
+    400022: brut_Classe_8_1 4
+    400024: brut_Classe_8_1 5
+    400026: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    400028: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 1
+    400030: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 2
+    400032: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 3
+    400034: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 4
+    400036: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 5
+    400038: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 6
+    400040: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 7
+    400042: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 8
+    400044: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032 9
+    400046: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+    400048: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      1
+    400050: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      2
+    400052: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      3
+    400054: galvanis__chaud_Classe_8.8
+    400056: galvanis__chaud_Classe_8.8 1
+    400058: galvanis__chaud_Classe_8.8 2
+    400060: galvanis__chaud_Classe_8.8 3
+    400062: group_0
+    400064: group_1
+    400066: group_10
+    400068: group_11
+    400070: group_2
+    400072: group_3
+    400074: group_4
+    400076: group_5
+    400078: group_6
+    400080: group_7
+    400082: group_8
+    400084: group_9
+    400086: ID107
+    400088: ID113
+    400090: ID119
+    400092: ID127
+    400094: ID133
+    400096: ID150
+    400098: ID189
+    400100: ID208
+    400102: ID234
+    400104: ID238
+    400106: ID269
+    400108: ID289
+    400110: ID297
+    400112: ID303
+    400114: ID309
+    400116: ID317
+    400118: ID321
+    400120: ID47
+    400122: ID64
+    400124: ID99
+    400126: instance_0
+    400128: instance_1
+    400130: instance_2
+    400132: instance_2 1
+    400134: instance_3
+    400136: instance_3 1
+    400138: instance_4
+    400140: instance_4 1
+    400142: instance_5
+    400144: instance_5 1
+    400146: instance_6
+    400148: instance_6 1
+    400150: instance_7
+    400152: instance_7 1
+    400154: instance_8
+    400156: instance_8 1
+    400158: skp_camera_Last_Saved_SketchUp_View
+    2300000: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    2300002: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      1
+    2300004: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      2
+    2300006: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      3
+    2300008: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      4
+    2300010: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      5
+    2300012: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      6
+    2300014: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      7
+    2300016: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      8
+    2300018: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      9
+    2300020: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+    2300022: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      1
+    2300024: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      2
+    2300026: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      3
+    2300028: group_0
+    2300030: group_1
+    2300032: group_10
+    2300034: group_11
+    2300036: group_2
+    2300038: group_3
+    2300040: group_4
+    2300042: group_5
+    2300044: group_6
+    2300046: group_7
+    2300048: group_8
+    2300050: group_9
+    2300052: ID107
+    2300054: ID113
+    2300056: ID119
+    2300058: ID150
+    2300060: ID189
+    2300062: ID208
+    2300064: ID269
+    2300066: ID289
+    2300068: ID297
+    2300070: ID303
+    2300072: ID309
+    2300074: ID47
+    2300076: ID64
+    2300078: ID99
+    3300000: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    3300002: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      1
+    3300004: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      2
+    3300006: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      3
+    3300008: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      4
+    3300010: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      5
+    3300012: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      6
+    3300014: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      7
+    3300016: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      8
+    3300018: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+      9
+    3300020: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+    3300022: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      1
+    3300024: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      2
+    3300026: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+      3
+    3300028: group_0
+    3300030: group_1
+    3300032: group_10
+    3300034: group_11
+    3300036: group_2
+    3300038: group_3
+    3300040: group_4
+    3300042: group_5
+    3300044: group_6
+    3300046: group_7
+    3300048: group_8
+    3300050: group_9
+    3300052: ID107
+    3300054: ID113
+    3300056: ID119
+    3300058: ID150
+    3300060: ID189
+    3300062: ID208
+    3300064: ID269
+    3300066: ID289
+    3300068: ID297
+    3300070: ID303
+    3300072: ID309
+    3300074: ID47
+    3300076: ID64
+    3300078: ID99
+    4300000: group_0
+    4300002: ID47
+    4300004: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+    4300006: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    4300008: group_1
+    4300010: ID64
+    4300012: group_2
+    4300014: ID99
+    4300016: ID107
+    4300018: ID113
+    4300020: ID119
+    4300022: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    4300024: group_3
+    4300026: ID150
+    4300028: group_4
+    4300030: ID189
+    4300032: Emile_Maurin_88114_BLS_HR_HEXA_TECH__20x50___GALVA_cl_8_8____NF_E_27711__0_
+    4300034: Emile_Maurin_22010_Ecrou_H__style_1____15.8_-_18__cl_8___NF_EN_24032
+    4300036: group_5
+    4300038: ID208
+    4300040: group_6
+    4300042: group_7
+    4300044: group_8
+    4300046: group_9
+    4300048: group_10
+    4300050: ID269
+    4300052: group_11
+    4300054: ID289
+    4300056: ID297
+    4300058: ID303
+    4300060: ID309
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

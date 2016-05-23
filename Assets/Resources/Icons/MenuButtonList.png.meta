@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 9aad0facb0f4a694e94006e0ba046c43
+timeCreated: 1464008800
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuButtonList_0
+    21300002: MenuButtonList_1
+    21300004: MenuButtonList_2
+    21300006: MenuButtonList_3
+    21300008: MenuButtonList_4
+    21300010: MenuButtonList_5
+    21300012: MenuButtonList_6
+    21300014: MenuButtonList_7
+    21300016: MenuButtonList_8
+    21300018: MenuButtonList_9
+    21300020: MenuButtonList_10
+    21300022: MenuButtonList_11
+    21300024: MenuButtonList_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MenuButtonList_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 952
+        width: 1186
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.53232, y: 68.84891}
+        - {x: -132.53232, y: -67.15109}
+        - {x: 134.46768, y: -67.15109}
+        - {x: 134.46768, y: 68.84891}
+    - name: MenuButtonList_1
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 940
+        width: 1184
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.64325, y: 68.16594}
+        - {x: 32.64325, y: 67.16594}
+        - {x: 10.6432495, y: 66.16594}
+        - {x: -46.35675, y: 63.16594}
+        - {x: -86.35675, y: 61.16594}
+        - {x: -118.35675, y: 59.16594}
+        - {x: -120.35675, y: 57.16594}
+        - {x: -121.35675, y: 51.16594}
+        - {x: -132.35675, y: -35.83406}
+        - {x: -132.35675, y: -67.83406}
+        - {x: 132.64325, y: -67.83406}
+        - {x: 132.64325, y: 68.16594}
+    - name: MenuButtonList_2
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 935
+        width: 1190
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.53406, y: 68.048035}
+        - {x: 22.534058, y: 65.048035}
+        - {x: -44.465942, y: 61.048035}
+        - {x: -78.46594, y: 59.048035}
+        - {x: -94.46594, y: 59.048035}
+        - {x: -99.46594, y: 49.048035}
+        - {x: -116.46594, y: -1.9519653}
+        - {x: -129.46594, y: -45.951965}
+        - {x: -133.46594, y: -56.951965}
+        - {x: -133.46594, y: -67.951965}
+        - {x: 133.53406, y: -67.951965}
+        - {x: 133.53406, y: 68.048035}
+    - name: MenuButtonList_3
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 935
+        width: 1190
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.28253, y: 68.048035}
+        - {x: 29.282532, y: 61.048035}
+        - {x: -23.717468, y: 56.048035}
+        - {x: -86.71747, y: 51.048035}
+        - {x: -90.71747, y: 48.048035}
+        - {x: -124.71747, y: -36.951965}
+        - {x: -132.71747, y: -59.951965}
+        - {x: -132.71747, y: -67.951965}
+        - {x: 134.28253, y: -67.951965}
+        - {x: 134.28253, y: 68.048035}
+    - name: MenuButtonList_4
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 944
+        width: 1190
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.25464, y: 67.56027}
+        - {x: 95.25464, y: 65.56027}
+        - {x: -10.745361, y: 48.560272}
+        - {x: -65.74536, y: 39.560272}
+        - {x: -70.74536, y: 34.560272}
+        - {x: -128.74536, y: -57.439728}
+        - {x: -132.74536, y: -63.439728}
+        - {x: -132.74536, y: -67.43973}
+        - {x: 134.25464, y: -67.43973}
+        - {x: 134.25464, y: 67.56027}
+    - name: MenuButtonList_5
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 942
+        width: 1190
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.43799, y: 68.61311}
+        - {x: 103.43799, y: 64.61311}
+        - {x: -33.56201, y: 27.613113}
+        - {x: -36.56201, y: 26.613113}
+        - {x: -79.56201, y: -13.386887}
+        - {x: -132.56201, y: -64.38689}
+        - {x: -132.56201, y: -67.38689}
+        - {x: 134.43799, y: -67.38689}
+        - {x: 134.43799, y: 68.61311}
+    - name: MenuButtonList_6
+      rect:
+        serializedVersion: 2
+        x: 7866
+        y: 949
+        width: 1190
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.18652, y: 68.17818}
+        - {x: 21.186523, y: 24.178177}
+        - {x: -117.81348, y: -55.821823}
+        - {x: -132.81348, y: -64.82182}
+        - {x: -132.81348, y: -67.82182}
+        - {x: 134.18652, y: -67.82182}
+        - {x: 134.18652, y: 68.17818}
+    - name: MenuButtonList_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 244
+        width: 1176
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 3}
+      outline:
+      - - {x: 123.84978, y: 66.55371}
+        - {x: -98.15022, y: -45.44629}
+        - {x: -126.15022, y: -63.44629}
+        - {x: -126.15022, y: -65.44629}
+        - {x: 132.84978, y: -65.44629}
+        - {x: 132.84978, y: 66.55371}
+    - name: MenuButtonList_8
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 224
+        width: 1190
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.039734, y: -60.917908}
+        - {x: -132.03973, y: -65.91791}
+        - {x: -132.03973, y: -67.91791}
+        - {x: 133.96027, y: -67.91791}
+        - {x: 133.96027, y: 54.082092}
+        - {x: 130.96027, y: 54.082092}
+        - {x: 32.960266, y: 22.082092}
+    - name: MenuButtonList_9
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 201
+        width: 1187
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline:
+      - - {x: -115.54321, y: -55.560257}
+        - {x: -132.54321, y: -65.56026}
+        - {x: -132.54321, y: -67.56026}
+        - {x: 133.45679, y: -67.56026}
+        - {x: 133.45679, y: 31.439743}
+        - {x: 96.45679, y: 31.439743}
+        - {x: 43.456787, y: 29.439743}
+    - name: MenuButtonList_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 184
+        width: 1180
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.82318, y: 11.63887}
+        - {x: -132.17682, y: -64.36113}
+        - {x: -132.17682, y: -67.36113}
+        - {x: 132.82318, y: -67.36113}
+        - {x: 132.82318, y: 9.63887}
+        - {x: 101.82318, y: 11.63887}
+    - name: MenuButtonList_11
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 192
+        width: 1186
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline:
+      - - {x: -129.60303, y: -67.07249}
+        - {x: -129.60303, y: 68.92751}
+        - {x: -132.60303, y: 68.92751}
+        - {x: -132.60303, y: -67.07249}
+      - - {x: -129.60303, y: -64.07249}
+        - {x: -129.60303, y: -67.07249}
+        - {x: 134.39697, y: -67.07249}
+        - {x: 134.39697, y: -27.072487}
+        - {x: 66.39697, y: -27.072487}
+        - {x: -27.603027, y: -34.072487}
+    - name: MenuButtonList_12
+      rect:
+        serializedVersion: 2
+        x: 6643
+        y: 173
+        width: 1190
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.25281, y: -64.320526}
+        - {x: -124.25281, y: -66.320526}
+        - {x: -124.25281, y: -67.320526}
+        - {x: 133.7472, y: -67.320526}
+        - {x: 133.7472, y: -56.320526}
+        - {x: 92.74719, y: -56.320526}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

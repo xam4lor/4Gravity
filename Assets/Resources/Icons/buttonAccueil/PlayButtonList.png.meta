@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 46c85d88e5c5fba4d87bb03c16420c42
+timeCreated: 1463936196
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayButtonList_0
+    21300002: PlayButtonList_11
+    21300004: PlayButtonList_10
+    21300006: PlayButtonList_9
+    21300008: PlayButtonList_8
+    21300010: PlayButtonList_7
+    21300012: PlayButtonList_6
+    21300014: PlayButtonList_5
+    21300016: PlayButtonList_4
+    21300018: PlayButtonList_3
+    21300020: PlayButtonList_2
+    21300022: PlayButtonList_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayButtonList_0
+      rect:
+        serializedVersion: 2
+        x: 6765
+        y: 6
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.37439, y: 43.167072}
+        - {x: -82.37439, y: -41.832928}
+        - {x: 83.62561, y: -41.832928}
+        - {x: 83.62561, y: 43.167072}
+    - name: PlayButtonList_11
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 8
+        width: 593
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.47095, y: 42.222763}
+        - {x: -82.47095, y: -41.777237}
+        - {x: 83.52905, y: -41.777237}
+        - {x: 83.52905, y: 42.222763}
+    - name: PlayButtonList_10
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 9
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.73401, y: 42.50061}
+        - {x: -82.73401, y: -41.49939}
+        - {x: 83.26599, y: -41.49939}
+        - {x: 83.26599, y: 42.50061}
+    - name: PlayButtonList_9
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 8
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.552734, y: 42.222763}
+        - {x: -82.552734, y: -41.777237}
+        - {x: 83.447266, y: -41.777237}
+        - {x: 83.447266, y: 42.222763}
+    - name: PlayButtonList_8
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 9
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.48291, y: 42.50061}
+        - {x: -82.48291, y: -41.49939}
+        - {x: 83.51709, y: -41.49939}
+        - {x: 83.51709, y: 42.50061}
+    - name: PlayButtonList_7
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 6
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.69153, y: 43.167072}
+        - {x: -82.69153, y: -41.832928}
+        - {x: 84.30847, y: -41.832928}
+        - {x: 84.30847, y: 43.167072}
+    - name: PlayButtonList_6
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 7
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.45581, y: 43.44492}
+        - {x: -82.45581, y: -41.55508}
+        - {x: 83.54419, y: -41.55508}
+        - {x: 83.54419, y: 43.44492}
+    - name: PlayButtonList_5
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 7
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.6087, y: 43.44492}
+        - {x: -82.6087, y: -41.55508}
+        - {x: 83.3913, y: -41.55508}
+        - {x: 83.3913, y: 43.44492}
+    - name: PlayButtonList_4
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 7
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.9281, y: 43.44492}
+        - {x: -82.9281, y: -41.55508}
+        - {x: 83.0719, y: -41.55508}
+        - {x: 83.0719, y: 43.44492}
+    - name: PlayButtonList_3
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 6
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.63666, y: 43.167072}
+        - {x: -82.63666, y: -41.832928}
+        - {x: 83.36334, y: -41.832928}
+        - {x: 83.36334, y: 43.167072}
+    - name: PlayButtonList_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 9
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.62311, y: 42.50061}
+        - {x: -82.62311, y: -41.49939}
+        - {x: 83.37689, y: -41.49939}
+        - {x: 83.37689, y: 42.50061}
+    - name: PlayButtonList_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.554474, y: 43.167072}
+        - {x: -82.554474, y: -41.832928}
+        - {x: 83.445526, y: -41.832928}
+        - {x: 83.445526, y: 43.167072}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
